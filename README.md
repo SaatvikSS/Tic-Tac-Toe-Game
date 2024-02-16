@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+![Screenshot 2024-02-16 at 1 42 47 PM](https://github.com/SaatvikSS/Tic-Tac-Toe-Game/assets/68585473/829c97c9-d0f8-41e5-aff4-60397c986d1b)
 
 In the project directory, you can run:
 
